@@ -1,0 +1,10 @@
+C:\Users\student\Documents\GitHub\Day4-CSharp\Dialogue and form\Dialogue and form\bin\Debug\Dialogue and form.exe.config
+C:\Users\student\Documents\GitHub\Day4-CSharp\Dialogue and form\Dialogue and form\bin\Debug\Dialogue and form.exe
+C:\Users\student\Documents\GitHub\Day4-CSharp\Dialogue and form\Dialogue and form\bin\Debug\Dialogue and form.pdb
+C:\Users\student\Documents\GitHub\Day4-CSharp\Dialogue and form\Dialogue and form\obj\Debug\Dialogue and form.csprojResolveAssemblyReference.cache
+C:\Users\student\Documents\GitHub\Day4-CSharp\Dialogue and form\Dialogue and form\obj\Debug\Dialogue_and_form.Form1.resources
+C:\Users\student\Documents\GitHub\Day4-CSharp\Dialogue and form\Dialogue and form\obj\Debug\Dialogue_and_form.Properties.Resources.resources
+C:\Users\student\Documents\GitHub\Day4-CSharp\Dialogue and form\Dialogue and form\obj\Debug\Dialogue and form.csproj.GenerateResource.Cache
+C:\Users\student\Documents\GitHub\Day4-CSharp\Dialogue and form\Dialogue and form\obj\Debug\Dialogue and form.exe
+C:\Users\student\Documents\GitHub\Day4-CSharp\Dialogue and form\Dialogue and form\obj\Debug\Dialogue and form.pdb
+C:\Users\student\Documents\GitHub\Day4-CSharp\Dialogue and form\Dialogue and form\obj\Debug\Dialogue_and_form.Form2.resources
