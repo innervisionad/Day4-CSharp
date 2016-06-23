@@ -1,0 +1,8 @@
+C:\Users\student\Documents\GitHub\Day4-CSharp\LotteryNumberMultipleControl\LotteryNumberMultipleControl\bin\Debug\LotteryNumberMultipleControl.exe.config
+C:\Users\student\Documents\GitHub\Day4-CSharp\LotteryNumberMultipleControl\LotteryNumberMultipleControl\bin\Debug\LotteryNumberMultipleControl.exe
+C:\Users\student\Documents\GitHub\Day4-CSharp\LotteryNumberMultipleControl\LotteryNumberMultipleControl\bin\Debug\LotteryNumberMultipleControl.pdb
+C:\Users\student\Documents\GitHub\Day4-CSharp\LotteryNumberMultipleControl\LotteryNumberMultipleControl\obj\Debug\LotteryNumberMultipleControl.Form1.resources
+C:\Users\student\Documents\GitHub\Day4-CSharp\LotteryNumberMultipleControl\LotteryNumberMultipleControl\obj\Debug\LotteryNumberMultipleControl.Properties.Resources.resources
+C:\Users\student\Documents\GitHub\Day4-CSharp\LotteryNumberMultipleControl\LotteryNumberMultipleControl\obj\Debug\LotteryNumberMultipleControl.csproj.GenerateResource.Cache
+C:\Users\student\Documents\GitHub\Day4-CSharp\LotteryNumberMultipleControl\LotteryNumberMultipleControl\obj\Debug\LotteryNumberMultipleControl.exe
+C:\Users\student\Documents\GitHub\Day4-CSharp\LotteryNumberMultipleControl\LotteryNumberMultipleControl\obj\Debug\LotteryNumberMultipleControl.pdb
